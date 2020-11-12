@@ -1,28 +1,33 @@
 form {
-    margin: 0 auto;
-    width: 200px;
-    text-align: center;
-    line-height: 80px;
-    padding-top: 40px;
+  margin: 0 auto;
+  width: 200px;
+  text-align: center;
+  line-height: 80px;
+  padding-top: 40px;
 }
 
 .jumbotron {
-    width: auto;
-    margin: 0 auto;
-    text-align: center;
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .weather-icon {
-    background-color: #F9DFD9;
-    border-radius: 5px;
+  background-color: #f9dfd9;
+  border-radius: 5px;
 }
 
 .country {
-    display: inline-block;
+  display: inline-block;
 }
 
 .flag {
-    display: inline-block;
-    margin-bottom: 30px;
-    margin-left: 20px;
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-left: 20px;
+}
+
+.my-name {
+  margin-top: 60px;
+  text-align: center;
 }
